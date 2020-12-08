@@ -2,6 +2,8 @@
 ## Subtitle: Speaking like Kate Winslet
 > Authors: Dabi Ahn(andabi412@gmail.com), [Kyubyong Park](https://github.com/Kyubyong)(kbpark.linguist@gmail.com)
 
+修改自：https://github.com/andabi/deep-voice-conversion/issues/64
+
 ## Samples
 https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks
 
